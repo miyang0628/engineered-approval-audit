@@ -33,9 +33,9 @@ behavior feature space:
   approvals are simultaneously more stable yet more fragile. This gap survives a
   subsampling control and is a layer of unfairness invisible to approval-rate metrics.
 
+
 ## Repository structure
 
-.
 ├── notebooks/ # analysis pipeline, run in order
 │ ├── 00_gatekeeping.ipynb # data load, VIP label, viability gates
 │ ├── 01_cohort_and_model.ipynb # cohort + audited model + group tags
