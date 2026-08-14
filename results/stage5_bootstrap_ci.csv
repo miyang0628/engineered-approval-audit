@@ -1,7 +1,0 @@
-quantity,point,ci_lo,ci_hi,excludes_0
-V4 convergent (ES->default),-1.249,-2.52,-0.109,True
-Paradox (density->default),0.976,0.332,1.639,True
-Gap composite (ES),-0.006,-0.034,0.021,False
-Gap Stability,0.086,0.045,0.125,True
-Gap NonFragility,-0.072,-0.11,-0.033,True
-Gap LowDensity,-0.033,-0.083,0.019,False
