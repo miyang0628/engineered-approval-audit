@@ -1,0 +1,5 @@
+Metric,Disadv.,Advant.,Gap,Rank-biserial,p
+Stability (Diag 1),+0.328,+0.242,+0.086,-0.229,1.60e-05
+Density (Diag 2),+0.550,+0.517,+0.033,-0.052,3.27e-01
+LowDensity (appx),+0.450,+0.483,-0.033,+0.052,3.27e-01
+NonFragility (appx),+0.457,+0.529,-0.072,+0.197,1.95e-04
